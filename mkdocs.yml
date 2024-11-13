@@ -38,3 +38,4 @@ nav:
   - About: 
     - About Me: about/about.md
     - Bio: about/Bio.md
+  - Blog: about\blog\posts\index.md
