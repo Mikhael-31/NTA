@@ -35,7 +35,7 @@ theme:
 
 nav:
   - Home: index.md
-  - About: 
+  - About:
     - Introduzione: about/introduzione.md
     - Bio: about/Bio.md
     - Blender: about/Blender.md 
