@@ -36,6 +36,6 @@ theme:
 nav:
   - Home: index.md
   - About: 
-    - About Me: about/about.md
+    - Introduzione: about/introduzione.md
     - Bio: about/Bio.md
-  - Blog: about\blog\posts\index.md
+    - Blender: about/Blender.md 
