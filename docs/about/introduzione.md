@@ -1,1 +1,1 @@
-In questo sito aggiungerò tutti i miei procidementi ed errori di github e possibilmente anche le soluzioni
+In questo sito aggiungerò tutti i miei procedimenti ed errori di github e possibilmente anche le soluzioni

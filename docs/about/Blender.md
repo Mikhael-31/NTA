@@ -4,6 +4,6 @@ Questo è stato un primo tentativo di realizzare un calice di vino usando un met
 
 ![ciao](Blenderbicchiere.jpg)
 
-Questa invece è stata la realizzazione di un calice di vino con una bottiglia fatti parrtendo da un cilindro e poi suddividendolo in anelli e modificandolo deformando gli anelli in vari livelli
+Questa invece è stata la realizzazione di un calice di vino con una bottiglia fatti partendo da un cilindro e poi suddividendolo in anelli e modificandolo deformando gli anelli in vari livelli
 
 ![ciao](Bicchiereblender.jpg)

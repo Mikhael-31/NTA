@@ -1,7 +1,8 @@
-site_name: MALLARDO MICHELE
+site_name: Reportage of Mikhael
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  logo: logoillustrator.png
   theme:
   palette: 
 
